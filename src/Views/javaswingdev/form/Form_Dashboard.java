@@ -17,7 +17,7 @@ public class Form_Dashboard extends javax.swing.JPanel {
                 }
         ));
         table.addRow(new Object[]{"1", "Hải Triều", "mikebhand@gmail.com", "Admin", "25 Apr,2018"});
-        table.addRow(new Object[]{"2", "Andrew Strauss", "andrewstrauss@gmail.com", "Editor", "25 Apr,2018"});
+        table.addRow(new Object[]{"2", "Andrew SSSS", "andrewstrauss@gmail.com", "Editor", "25 Apr,2018"});
         table.addRow(new Object[]{"3", "Ross Kopelman", "rosskopelman@gmail.com", "Subscriber", "25 Apr,2018"});
         table.addRow(new Object[]{"4", "Mike Hussy", "mikehussy@gmail.com", "Admin", "25 Apr,2018"});
         table.addRow(new Object[]{"5", "Kevin Pietersen", "kevinpietersen@gmail.com", "Admin", "25 Apr,2018"});
